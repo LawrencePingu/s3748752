@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lawrence Redfern's Page
 
 You can use the [editor on GitHub](https://github.com/LawrencePingu/s3748752/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
