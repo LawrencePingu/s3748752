@@ -3,9 +3,13 @@ Welcome to my page. I am happy to be learning the exciting world of IT.
 
 
 
-### About me
+### Breif bio of me
+Im 17 years old.
+I live in Townsville.
+I love IT.
+I play alot of games.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
